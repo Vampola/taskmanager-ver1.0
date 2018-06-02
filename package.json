@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/numeral": "0.0.22",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "eslint": "^4.19.1",
+    "firebase": "^5.0.4",
     "moment": "^2.22.1",
+    "numeral": "^2.0.6",
     "react": "^16.4.0",
     "react-addons-shallow-compare": "^15.6.2",
     "react-dates": "^16.7.0",
@@ -16,6 +19,7 @@
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4",
     "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0",
     "uuid": "^3.2.1",
     "validator": "^10.2.0"
   },
